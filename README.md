@@ -2,5 +2,5 @@
 Desafio de projeto de Git/GitHub Dio
 
 ## Links ùteis
-[Portugol Studio] (https://portugol-webstudio.cubos.io/)
-Uma IDE online, ajuda a exercitar a programação, contendo bastante exemplos
+[Portugol Studio](https://portugol-webstudio.cubos.io/)
+Uma IDE online, ajuda a exercitar a programação, contendo bastante exemplo
